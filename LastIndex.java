@@ -1,8 +1,12 @@
 /******************************************************************************
+Given a sorted array of integers containing duplicates, write a program which returns the last index of an given element.
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
+Example:
+Input:
+array = {0, 1, 2, 2, 4, 5, 5, 5, 8};
+num = 5;
+Output:
+Element 5 found at index 7
 
 *******************************************************************************/
 
